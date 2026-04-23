@@ -10,8 +10,6 @@ tvbox
 
 支持多仓源，支持切换源，功能进行了优化
 
-官网：http://qiqiv.cn/
-
 软件分享主页：https://bbs.qiqiv.cn/thread-11997-1-1.html
 
 夸克网盘分享：https://pan.quark.cn/s/57cfe0fc1079#/list/share
